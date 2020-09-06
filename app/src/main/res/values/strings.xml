@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Epidemic Analysis</string>
+    <string name="DBController_name">Database Controller</string>
+
+    <string name="result">扫描结果</string>
+    <string name="btn_start">开始扫描</string>
+    <string name="btn_scan">单次扫描</string>
+    <string name="btn_debug">Debug页面</string>
+    <string name="tx_SSID">SSID: </string>
+    <string name="tx_BSSID">BSSID: </string>
+    <string name="tx_time">Time: </string>
+
+    <string name="btn_add">添加数据</string>
+    <string name="btn_delete">删除数据</string>
+    <string name="btn_update">更新数据</string>
+    <string name="btn_query">查询数据</string>
+    <string name="btn_show_all">全部显示</string>
+    <string name="btn_clear">清除显示</string>
+    <string name="btn_delete_all">全部删除</string>
+    <string name="btn_query_time">查询该时间及以后的记录</string>
+
+    <string name="id">ID: </string>
+
+</resources>
